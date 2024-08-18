@@ -1,14 +1,20 @@
-title: Uyen Nguyen # your name (or website title) here
-logo: "linkedin.jpg" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: <p align="center"> Uyen Nguyen </p>
+logo: "linkedin.jpg"  
+description: 
+  <p align="center">
+  <a href="https://giauyen123.github.io/Nguyen_Uyen_Resume.pdf">Resume</a> | 
+  <a href="https://www.linkedin.com/in/unguyen04/">LinkedIn</a> |
+  <a href="https://github.com/giauyen123">GitHub</a>
+  </p>
+
+  <p align="justify">
   Hi there! 
   My name is Uyen. I'm currently pursing Bachelor's Degree in Statistics and Economics at University of South Florida. 
   <br><br>
   I'm currently a Data Analyst Intern at ComEd (an Exelon company) and Research Assistant at SPACHeS Lab where I apply my knowledge of data science and machine learning to business operations optimization and predictive analytics for computational healthcare systems. 
   <br><br>
-  <a href="https://giauyen123.github.io/Nguyen_Uyen_Resume.pdf">Resume</a> 
-  <a href="https://github.com/giauyen123">GitHub</a> 
-  <a href="https://www.linkedin.com/in/unguyen04/">LinkedIn</a>
+  </p>
+  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
