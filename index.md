@@ -2,7 +2,7 @@
 
 ---
 
-### Personal Projects
+### Personal Project
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -12,7 +12,7 @@
 <img src="adultincome.png"/>
 
 ---
-### Research Projects
+### Research Project
 
 [Prediction of Apnea Hypopnea Index (AHI) for Obstructive Sleep Apnea Diagnosis based on Using Sleep Tracking Wearable Devices](/researchposter.pdf)
 <img src="osa.jpg"/>
