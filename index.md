@@ -8,17 +8,14 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Adult Income Analysis](https://rpubs.com/giauyen123/1070743)
+[Adult Income Analysis and Forecast](https://rpubs.com/giauyen123/1070743)
 <img src="adultincome.png"/>
 
 ---
 ### Research Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Prediction of Apnea Hypopnea Index (AHI) for Obstructive Sleep Apnea Diagnosis based on Using Sleep Tracking Wearable Devices](/researchposter.pdf)
+<img src="osa.png"/>
 
 ---
 
