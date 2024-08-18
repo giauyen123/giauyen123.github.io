@@ -13,3 +13,9 @@
 <img src="osa.jpg"/>
 
 ---
+
+[Tidal and meteorological effects on Harbor Seals (Phoca Vitulina) and
+Gray Seals (Halichoerus Grypus) haul-out behavior in the Gulf of Maine](/sealanalysis.pdf)
+<img src="seal.jpg"/>
+
+---
