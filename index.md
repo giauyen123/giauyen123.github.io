@@ -9,7 +9,7 @@
 
 ---
 [Adult Income Analysis](https://rpubs.com/giauyen123/1070743)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="adultincome.png"/>
 
 ---
 ### Research Projects
