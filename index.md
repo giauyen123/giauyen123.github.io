@@ -4,7 +4,7 @@
 
 ## Personal Project
 ### [Customer Segmentation & Recommendation System](https://github.com/giauyen123/Customer-Segmenation-and-Recommendation-System)
-
+<img src="cusSeg.png"/>
 
 ### [Adult Income Analysis and Forecast](https://rpubs.com/giauyen123/1070743)
 <img src="adultincome.png"/>
