@@ -6,7 +6,7 @@
 ### [Retail Customer Segmentation & Recommendation System](https://github.com/giauyen123/Customer-Segmenation-and-Recommendation-System)
 <img src="cusSeg.png"/>
 
-### [Customer Transaction Fraud Detection](https://github.com/giauyen123/Customer-Segmenation-and-Recommendation-System)
+### [Customer Transaction Fraud Detection](https://github.com/giauyen123/Customer-Transaction-Fraud-Detection)
 <img src="fraud_detection.jpg"/>
 
 ### [Adult Income Analysis and Forecast](https://rpubs.com/giauyen123/1070743)
